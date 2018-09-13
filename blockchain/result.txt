@@ -1,0 +1,22 @@
+Block 0 <block.Block object at 0x107d5d128>
+timestamp:     2018-09-13 14:02:45.863787
+transactions:  []
+current hash:  09bf2d002241850667a1dd065db5eca3b5b746b1d8c9955716a8a6959970c70a
+Block 0 <block.Block object at 0x107d5d128>
+timestamp:     2018-09-13 14:02:45.863787
+transactions:  []
+current hash:  09bf2d002241850667a1dd065db5eca3b5b746b1d8c9955716a8a6959970c70a
+Block 1 <block.Block object at 0x107d5d160>
+timestamp:     2018-09-13 14:02:45.863948
+transactions:  {'sender': 'Alice', 'receiver': 'Bob', 'amount': '50'}
+current hash:  e01003ca00902d550ecca54ae30e7f35a3d0dc5bd0825c4dd0047591a30e1083
+Block 2 <block.Block object at 0x107d5d390>
+timestamp:     2018-09-13 14:02:45.869628
+transactions:  {'sender': 'Bob', 'receiver': 'Cole', 'amount': '25'}
+current hash:  73543a99ae1acb133bc8a3fbd3bb5cc3a796211e34af26128bfb2fd632c591cf
+Block 3 <block.Block object at 0x107d5d3c8>
+timestamp:     2018-09-13 14:02:45.871209
+transactions:  {'sender': 'Alice', 'receiver': 'Cole', 'amount': '35'}
+current hash:  6ed34430f720207857ec80dce6889b3b3d214c17917ea2dfbdde4cd3e67a0f5e
+The current hash of the block does not equal the generated hash of the block.
+
